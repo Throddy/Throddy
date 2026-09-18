@@ -56,11 +56,18 @@
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 
 ---
-### GitHub Stats
+### GitHub Statistics
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Throddy&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" />
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Throddy&layout=compact&langs_count=8&theme=tokyonight" />
+
+  <img
+
+    src="https://github-profile-stats-vert.vercel.app/api/combined?username=Throddy&theme=tokyonight&hide_border=true"
+
+    alt="Maksim Volkov's GitHub Statistics"
+
+  />
+
 </p>
 
 ---
