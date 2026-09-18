@@ -58,17 +58,7 @@
 ---
 ### GitHub Statistics
 
-<p align="center">
-
-  <img
-
-    src="https://github-profile-stats-vert.vercel.app/api/combined?username=Throddy&theme=tokyonight&hide_border=true"
-
-    alt="Maksim Volkov's GitHub Statistics"
-
-  />
-
-</p>
+![Maksim Volkov's GitHub Statistics](https://github-profile-stats-vert.vercel.app/api/combined?username=Throddy&theme=tokyonight&hide_border=true)
 
 ---
 
